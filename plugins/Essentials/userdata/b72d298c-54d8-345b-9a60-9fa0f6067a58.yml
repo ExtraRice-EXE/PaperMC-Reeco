@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 75.155.120.248
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1653463551081
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1653469324889
+  login: 1653467473589
+money: '0'
+last-account-name: Apostle
+logoutlocation:
+  world: 50e351f7-d3c9-4fe1-81cd-52dab031cf86
+  world-name: world_the_end
+  x: 106.30000001192093
+  y: 57.0
+  z: -0.38955503766522903
+  yaw: -100.16885375976562
+  pitch: 48.00105285644531
+lastlocation:
+  world: b894b71f-6ae0-4659-ac90-b8f24f594169
+  world-name: world_nether
+  x: 33.30000001192093
+  y: 219.0
+  z: 44.65958926515139
+  yaw: -83.85050201416016
+  pitch: 85.9498519897461
+homes:
+  afkmob:
+    world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+    world-name: world
+    x: 375.62536873254714
+    y: 211.0
+    z: 282.4131490444125
+    yaw: 32.85380172729492
+    pitch: 82.95018005371094
+  hehome:
+    world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+    world-name: world
+    x: 333.4121727917334
+    y: 100.0
+    z: 308.6591466090641
+    yaw: 37.95388412475586
+    pitch: 38.100257873535156

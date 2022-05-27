@@ -1,0 +1,143 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 50.99.93.122
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1653536859074
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1653537718147
+  login: 1653536813201
+money: '0'
+last-account-name: Seraveee
+lastlocation:
+  world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+  world-name: world
+  x: -1469.1293221658182
+  y: 68.0
+  z: -295.4664547319938
+  yaw: 88.33200073242188
+  pitch: 21.450551986694336
+homes:
+  home:
+    world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+    world-name: world
+    x: 301.1074494210747
+    y: 64.0
+    z: 430.9707417026378
+    yaw: -83.55062103271484
+    pitch: 8.700042724609375
+  sand:
+    world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+    world-name: world
+    x: 1562.6240951590064
+    y: 71.0
+    z: -496.1246237645061
+    yaw: 7.2020263671875
+    pitch: 24.149747848510742
+  mansion:
+    world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+    world-name: world
+    x: 626.1043552218744
+    y: 97.0
+    z: -662.4487842857734
+    yaw: 6.756227016448975
+    pitch: 21.299968719482422
+  end:
+    world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+    world-name: world
+    x: 1973.9845766084186
+    y: -50.0
+    z: -68.02133359434269
+    yaw: 145.48013305664062
+    pitch: 17.70001792907715
+  xp:
+    world: 50e351f7-d3c9-4fe1-81cd-52dab031cf86
+    world-name: world_the_end
+    x: 244.3204092891823
+    y: 1.0
+    z: 7.726749392740492
+    yaw: -24.45550537109375
+    pitch: 26.249324798583984
+  endend:
+    world: 50e351f7-d3c9-4fe1-81cd-52dab031cf86
+    world-name: world_the_end
+    x: 1005.4331488018598
+    y: 57.0
+    z: -9.402238977392027
+    yaw: 173.70091247558594
+    pitch: 23.999977111816406
+  elytra:
+    world: 50e351f7-d3c9-4fe1-81cd-52dab031cf86
+    world-name: world_the_end
+    x: 1067.8237143900017
+    y: 60.0
+    z: -474.77311454232824
+    yaw: 106.806884765625
+    pitch: 9.00002670288086
+  parot:
+    world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+    world-name: world
+    x: 2783.353793601972
+    y: 72.0
+    z: -101.98391205628543
+    yaw: -8.7061767578125
+    pitch: 10.04930305480957
+  sandy:
+    world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+    world-name: world
+    x: 3724.0294512219843
+    y: 66.0
+    z: -4360.699999988079
+    yaw: -110.69447326660156
+    pitch: 4.650466442108154
+  water:
+    world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+    world-name: world
+    x: 3278.7031751203513
+    y: 63.0
+    z: -5184.764926834053
+    yaw: -41.39949417114258
+    pitch: 24.449838638305664
+  netherite:
+    world: b894b71f-6ae0-4659-ac90-b8f24f594169
+    world-name: world_nether
+    x: -17.329803768392672
+    y: 14.0
+    z: 215.1204465413759
+    yaw: 2.294677734375
+    pitch: 24.300460815429688
+  amethyst:
+    world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+    world-name: world
+    x: 406.64417002096616
+    y: 1.0
+    z: -830.8677180661675
+    yaw: 22.58642578125
+    pitch: 5.999791145324707
+  turtles:
+    world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+    world-name: world
+    x: 3256.480885704474
+    y: 63.0
+    z: -1628.448767367662
+    yaw: 155.5970001220703
+    pitch: 8.549734115600586
+logoutlocation:
+  world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+  world-name: world
+  x: 291.5949507410571
+  y: 64.0
+  z: 531.0797458237699
+  yaw: 130.712158203125
+  pitch: 10.49978256225586

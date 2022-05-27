@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 75.155.15.44
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1653175496135
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1653239751569
+  login: 1653123243786
+money: '0'
+last-account-name: Crizzy7
+logoutlocation:
+  world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+  world-name: world
+  x: -164.69999998807907
+  y: 91.0
+  z: -420.30000001192093
+  yaw: -1.3385716676712036
+  pitch: 11.042695999145508
+lastlocation:
+  world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+  world-name: world
+  x: -108.49585747730363
+  y: 89.9375
+  z: -432.69999998807907
+  yaw: 28.740951538085938
+  pitch: 24.346044540405273

@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 199.126.233.8
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1653535722851
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1653535724602
+  login: 1653535104161
+money: '0'
+last-account-name: Dane
+lastlocation:
+  world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+  world-name: world
+  x: 346.9197798480085
+  y: 93.0
+  z: 283.98852072425467
+  yaw: 162.815673828125
+  pitch: 16.483753204345703
+logoutlocation:
+  world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+  world-name: world
+  x: 235.5
+  y: 74.0
+  z: 406.5
+  yaw: -34.69172668457031
+  pitch: 38.07126998901367
+homes:
+  food:
+    world: b894b71f-6ae0-4659-ac90-b8f24f594169
+    world-name: world_nether
+    x: 31.837942666601815
+    y: 128.0
+    z: 40.672857943042914
+    yaw: 94.72216796875
+    pitch: 9.673687934875488
+  home:
+    world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+    world-name: world
+    x: 235.5
+    y: 74.0
+    z: 406.5
+    yaw: 2.4139630794525146
+    pitch: 57.31382369995117
+  home2:
+    world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+    world-name: world
+    x: 824.2945839429867
+    y: 67.0
+    z: 725.7460729429079
+    yaw: 79.96337890625
+    pitch: 18.276920318603516

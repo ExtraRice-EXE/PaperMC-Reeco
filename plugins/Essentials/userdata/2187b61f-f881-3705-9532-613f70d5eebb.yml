@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 70.40.140.176
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1653196206955
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1653536789496
+  login: 1653527764825
+money: '0'
+last-account-name: H2OSerein
+logoutlocation:
+  world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+  world-name: world
+  x: 417.02824600161506
+  y: 43.0
+  z: -622.9281772654797
+  yaw: 116.43794250488281
+  pitch: 16.413122177124023
+lastlocation:
+  world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+  world-name: world
+  x: -406.70638338262177
+  y: 121.86813692994302
+  z: -35.89277382403673
+  yaw: 177.29112243652344
+  pitch: 27.912023544311523

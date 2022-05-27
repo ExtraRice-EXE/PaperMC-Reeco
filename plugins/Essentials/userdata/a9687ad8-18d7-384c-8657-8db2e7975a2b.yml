@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 108.173.128.160
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1653456077422
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1653466274061
+  login: 1653454715218
+money: '0'
+last-account-name: P2NK0
+homes:
+  doodoo:
+    world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+    world-name: world
+    x: 671.6999999880791
+    y: 3.0
+    z: -754.611829617945
+    yaw: -75.14276123046875
+    pitch: 44.13511657714844
+logoutlocation:
+  world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+  world-name: world
+  x: 434.30000001192093
+  y: 15.0
+  z: -559.3000000119209
+  yaw: -47.5775146484375
+  pitch: 30.984703063964844
+lastlocation:
+  world: 8ef75fd1-0a5f-40a5-9d7c-d5c821e6b8d0
+  world-name: world
+  x: 456.69460564459143
+  y: 12.0
+  z: -564.0156027155449
+  yaw: 49.1329345703125
+  pitch: 71.64016723632812
